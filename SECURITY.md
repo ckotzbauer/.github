@@ -5,7 +5,7 @@ Security vulnerabilities should be handled quickly and sometimes privately. The 
 
 ### Contact
 
-* Christian Kotzbauer (git@ckotzbauer.de) [GPG Key](https://api.github.com/users/ckotzbauer/gpg_keys)
+* Christian Hopf (git@ckotzbauer.de) [GPG Key](https://api.github.com/users/ckotzbauer/gpg_keys)
 
 I will share various tasks as listed below:
 
